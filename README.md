@@ -1,12 +1,12 @@
 <a href = "https://youtu.be/55oDDagXtnc" target="_blank">Video Link</a>
 <br/>
-<a href = "https://bhartiya-kanoon.vercel.app/" target="_blank">Bhartiya Kanoon</a>
+<a href = "https://bhartiya-kanoon.vercel.app/" target="_blank">Legal Vault</a>
 <p align="center">
  
 ![WhatsApp Image 2023-11-05 at 14 06 55_a2f42e0a](https://github.com/AKSRathor/PortfolioBackend/assets/86844932/3aabf3f6-d3f7-44d8-9467-9a2f5955fd5a)       
         </p>
-<h1 align="center">Bharatiya Kanoon</h1>
-<h3 align="center">Trusted Protocol For India's Legal Documents<h3>
+<h1 align="center">Legal Vault</h1>
+<h3 align="center">A Trusted protocol for all your legal records<h3>
   
 
 <div align="center">
